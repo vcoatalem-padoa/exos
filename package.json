@@ -1,0 +1,19 @@
+{
+  "name": "exos",
+  "version": "1.0.0",
+  "description": "exos for training and technical tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vcoatalem-padoa/exos.git"
+  },
+  "author": "victor c",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vcoatalem-padoa/exos/issues"
+  },
+  "homepage": "https://github.com/vcoatalem-padoa/exos#readme"
+}
